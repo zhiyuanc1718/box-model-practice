@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+* {
+    border: 1px solid red;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+#title {
+    background: yellow;
+    /*add CSS here*/
+    
+}
+
+#subtitle {
+    background: black;
+    color: white;
+    /*add CSS here*/
+    
+}
+
+.topic {
+    background: lightgray;
+    /*add CSS here*/
+    
+}
+
